@@ -9,6 +9,9 @@ I am a Computer Engineer from :chile:.
 - :beetle: I'm working as a Senior QA Automation Engineer for a retail company and contributing to frontend and backend looking for bugs and automating test.
 - :seedling: Exploring more tools for E2E testing and improve the software quality.
 - :city_sunrise: In my free time, I try to improve my skills, play sports like chess or running and jogging.
+- :inbox_tray: How to reach me:
+  - ![Static Badge](https://img.shields.io/badge/xmpp-tools?style=social&logo=xmpp&label=zodac%40suchat.org&color=%23002B5C)
+
 
 ## :crossed_swords: Languages
 
