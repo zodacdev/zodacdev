@@ -10,13 +10,14 @@ I am a Computer Engineer from :chile:.
 - :seedling: Exploring more tools for E2E testing and improve the software quality.
 - :city_sunrise: In my free time, I try to improve my skills, play sports like chess or running and jogging.
 - :inbox_tray: How to reach me:
-  - ![Static Badge](https://img.shields.io/badge/xmpp-tools?style=social&logo=xmpp&label=zodac%40suchat.org&color=%23002B5C)
+  - ![Static Badge](https://img.shields.io/badge/xmpp-social?style=social&logo=xmpp&label=zodac%5BAT%5Dsuchat.org&color=%23002B5C)
+  - ![Static Badge](https://img.shields.io/badge/matrix-social?logo=matrix&label=%5BAT%5Dzodacdev%3Amatrix.org&color=%23000000)
 
 
 ## :crossed_swords: Languages
 
-![Static Badge](https://img.shields.io/badge/python-tools?style=for-the-badge&logo=python&labelColor=white&color=%233776AB)
-![Static Badge](https://img.shields.io/badge/javascript-tools?style=for-the-badge&logo=javascript&labelColor=white&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/python-languages?style=for-the-badge&logo=python&labelColor=white&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/javascript-languages?style=for-the-badge&logo=javascript&labelColor=white&color=%23F7DF1E)
 
 ## :hammer_and_wrench: Tools
 
