@@ -13,7 +13,6 @@ I am a Computer Engineer from :chile:.
   - ![Static Badge](https://img.shields.io/badge/xmpp-social?style=social&logo=xmpp&label=zodac%5BAT%5Dsuchat.org&color=%23002B5C)
   - ![Static Badge](https://img.shields.io/badge/matrix-social?logo=matrix&label=%5BAT%5Dzodacdev%3Amatrix.org&color=%23000000)
 
-
 ## :crossed_swords: Languages
 
 ![Static Badge](https://img.shields.io/badge/python-languages?style=for-the-badge&logo=python&labelColor=white&color=%233776AB)
