@@ -34,3 +34,4 @@ I am a Computer Engineer from :chile:.
 ![Static Badge](https://img.shields.io/badge/visualstudiocode-tools?style=flat-square&logo=visualstudiocode&logoColor=white&color=%23007ACC)
 ![Static Badge](https://img.shields.io/badge/vim-tools?style=flat-square&logo=vim&color=%23019733)
 ![Static Badge](https://img.shields.io/badge/gnuemacs-tools?style=flat-square&logo=gnuemacs&labelColor=white&color=%237F5AB6)
+![Static Badge](https://img.shields.io/badge/markdown-tools?style=flat-square&logo=markdown&color=%23000000)
