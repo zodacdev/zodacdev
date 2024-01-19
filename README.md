@@ -8,7 +8,7 @@ I am a Computer Engineer from :chile:.
 
 - :beetle: I'm working as a Senior QA Automation Engineer for a retail company and contributing to frontend and backend looking for bugs and automating test.
 - :seedling: Exploring more tools for E2E testing and improve the software quality.
-- :city_sunrise: In my free time, I read tech articles, play sports like chess or running and jogging.
+- :city_sunrise: In my free time, I try to improve my skills, play sports like chess or running and jogging.
 
 ## :crossed_swords: Languages
 
