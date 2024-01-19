@@ -10,7 +10,7 @@ I am a Computer Engineer from :chile:.
 - :seedling: Exploring more tools for E2E testing and improve the software quality.
 - :city_sunrise: In my free time, I read tech articles, play sports like chess or running and jogging.
 
-## :hammer_and_wrench: Languages
+## :crossed_swords: Languages
 
 ![Static Badge](https://img.shields.io/badge/python-tools?style=for-the-badge&logo=python&labelColor=white&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/javascript-tools?style=for-the-badge&logo=javascript&labelColor=white&color=%23F7DF1E)
