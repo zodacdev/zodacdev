@@ -22,3 +22,6 @@ I am a Computer Engineer from :chile:.
 ![Static Badge](https://img.shields.io/badge/webdriverio-tools?style=flat-square&logo=webdriverio&labelColor=white&color=%23EA5906)
 ![Static Badge](https://img.shields.io/badge/git-tools?style=flat-square&logo=git&labelColor=white&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/linux-tools?style=flat-square&logo=linux&labelColor=white&color=%23FCC624)
+![Static Badge](https://img.shields.io/badge/mysql-tools?style=flat-square&logo=mysql&labelColor=white&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/postgresql-tools?style=flat-square&logo=postgresql&labelColor=white&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/mongodb-tools?style=flat-square&logo=mongodb&labelColor=white&color=%2347A248)
