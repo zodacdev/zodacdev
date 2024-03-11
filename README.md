@@ -10,7 +10,6 @@ I am a Computer Engineer from :chile:.
 - :seedling: Exploring more tools for E2E testing and improve the software quality.
 - :city_sunrise: In my free time, I try to improve my skills, play sports like chess or running and jogging.
 - :inbox_tray: How to reach me:
-  - ![Static Badge](https://img.shields.io/badge/xmpp-social?style=flat-square&logo=xmpp&label=zodac%40suchat.org&color=%23002B5C)
   - ![Static Badge](https://img.shields.io/badge/matrix-social?style=flat-square&logo=matrix&label=%40zodacdev%3Amatrix.org&color=%23000000)
   - ![Static Badge](https://img.shields.io/badge/build-mastodon-brightgreen?style=flat-square&logo=mastodon&logoColor=white&label=%40zodac%40lile.cl&color=%236364FF)
 
